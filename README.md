@@ -1,1 +1,1 @@
-# LLM-distributed-training
+# Distributed training for LLM
